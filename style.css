@@ -34,7 +34,7 @@ body {
 .container .question {
     display: inline-block;
     width: 100%;
-    padding: 5% 0 5%;
+    padding: 5% 0;
     border-bottom: 0.1rem solid hsl(240, 5%, 91%);
     font-size: 0.825rem;
     line-height: 1rem;
@@ -189,7 +189,7 @@ input[type="checkbox"] {
     }
 
     .container .question {
-        font-size: 1.05rem;
+        font-size: 1rem;
     }
 
     .upload-answer,
@@ -221,7 +221,7 @@ input[type="checkbox"] {
     .container .questions-box {
         width: calc(100% - 2rem);
         max-width: 25rem;
-        margin: 4rem 0 5rem;
+        margin: 3rem 0 4rem;
     }
 
     .container .question {
