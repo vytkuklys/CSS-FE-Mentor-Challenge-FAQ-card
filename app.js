@@ -7,5 +7,4 @@ function tryAgain(question, img){
     document.querySelector(question).classList.toggle("question-font-weight")
     document.querySelector(img).classList.toggle("rotate-img");
     }
-    console.log(question + "" + img)
 }
