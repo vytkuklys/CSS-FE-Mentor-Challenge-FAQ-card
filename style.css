@@ -254,7 +254,7 @@ input[type="checkbox"] {
     .container .images-desktop .pattern-desktop {
         position: absolute;
         top: -150%;
-        left: -25%;
+        left: -20%;
         transform: translateX(-50%);
         display: block;
     }
