@@ -253,7 +253,7 @@ input[type="checkbox"] {
     .container .images-desktop .pattern-desktop {
         position: absolute;
         top: -140%;
-        left: -20%;
+        left: -17.5%;
         transform: translateX(-50%);
         display: block;
     }
